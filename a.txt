@@ -1,3 +1,4 @@
 Teste
 Entendendo o HEAD
 Esta linha foi modificada na branch master
+Esta linha foi modificada no ramo de teste
